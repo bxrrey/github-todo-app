@@ -1,1 +1,1 @@
-# github-todo-app
+Simple To-do App in PHP with auto database migration.
